@@ -1,4 +1,4 @@
-# 🧠 Memory Matching Game
+# Memory Matching Game
 
 A Memory Matching Game built in **Python** with both a **Pygame GUI** and a **Terminal (CLI)** version.
 
