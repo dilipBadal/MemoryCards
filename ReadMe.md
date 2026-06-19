@@ -305,5 +305,4 @@ https://github.com/dilipBadal/MemoryCards
 
 # Author
 
-**Dilip Badal**
-**Sudheer**
+**Dilip Badal and Sudheer **
