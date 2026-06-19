@@ -215,7 +215,7 @@ def draw_cli_board():
     pygame.draw.circle(const.screen, (255, 189, 46), (70, 58), 6)
     pygame.draw.circle(const.screen, (39, 201, 63), (88, 58), 6)
     
-    draw_text("antigravity-os: ~/memory-game", 300, 58, color=(140, 160, 180), fnt=const.cli_font_tiny)
+    draw_text("Memory Cards", 300, 58, color=(140, 160, 180), fnt=const.cli_font_tiny)
     
     # Draw ASCII Card Cells
     for i in range(16):

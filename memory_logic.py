@@ -82,7 +82,7 @@ def reset():
     
     # Initialize scrolling terminal log with retro OS welcome messages
     cli_log = [
-        "antigravity-os v1.0.0 (tty1)",
+        "Memory Cards",
         "memory-match module initialized...",
         "board layout randomized.",
         "Enter first card (1-16):"
